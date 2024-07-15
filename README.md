@@ -1,6 +1,6 @@
 # Desafio FastAPI - DIO e Vivo
 
-Projeto baseado no repositório da [Nayanna Nara](https://github.com/digitalinnovationone/workout_api)
+Projeto baseado no repositório da [Nayanna Nara](https://github.com/digitalinnovationone/workout_api) no github da DIO
 
 ## MER do projeto
 ![MER](/mer.jpg "Modelagem de entidade e relacionamento")
